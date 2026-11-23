@@ -1,0 +1,54 @@
+{
+  "profile": {
+    "name": "Nicoly Andrade",
+    "handle": "@nicoly.acf",
+    "bio": "Engenheira de Informática | Mestranda em I.A. e Computação Criativa | Desenvolvedora Full-Stack | Modelo, UGC e Criadora de Conteúdo | Freelancer",
+    "avatar": "/avatar.jpg",
+    "ogImage": "/og.jpg"
+  },
+  "links": [
+    {
+      "label": "Portfólio",
+      "hint": "Projetos e trabalhos",
+      "href": "https://nicoly-personal-portifolio-nicolys-projects-2d3de88a.vercel.app",
+      "icon": "portfolio"
+    },
+    {
+      "label": "Nicoly — Computer Engineer & AI Creative Technologist",
+      "labelLang": "en",
+      "hint": "Site profissional de TI",
+      "href": "https://nicoly.com.br",
+      "icon": "globe"
+    },
+    {
+      "label": "Nicoly Andrade Mídia Kit",
+      "hint": "Modelo e influenciadora",
+      "href": "https://nicolyandrademidialit.my.canva.site",
+      "icon": "camera"
+    },
+    {
+      "label": "TikTok",
+      "hint": "@nicoly.acf",
+      "href": "https://www.tiktok.com/@nicoly.acf",
+      "icon": "tiktok"
+    },
+    {
+      "label": "Instagram",
+      "hint": "@nicoly.acf",
+      "href": "https://www.instagram.com/nicoly.acf",
+      "icon": "instagram"
+    }
+  ],
+  "socials": [
+    {
+      "label": "Instagram",
+      "href": "https://www.instagram.com/nicoly.acf",
+      "icon": "instagram"
+    },
+    {
+      "label": "TikTok",
+      "href": "https://www.tiktok.com/@nicoly.acf",
+      "icon": "tiktok"
+    }
+  ]
+}
